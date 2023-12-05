@@ -2,6 +2,8 @@
 
 ### BANK MARKETING CAMPAIGN
 
+Link Tableau: https://public.tableau.com/app/profile/nilam.ayu.rosati/viz/Group_Alpha_BTM_PortugalMarketingBankCampaign_17017840874510/Dashboard1?publish=yes
+
 Nilam Ayu Rosari,
 Novaldi Halomoan
 
